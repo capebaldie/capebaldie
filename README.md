@@ -1,13 +1,10 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Dancing%20Rainbow%20🌈&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Amal a.s</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A rookie front-end developer from India trying to learn new things</h3>
 
 
 - 🌱 I’m currently learning **Backend technologies**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-capebaldie.vercel.app](https://portfolio-capebaldie.vercel.app)
-
-- 💬 Ask me about **react**
 
 - 📫 How to reach me **amalsunil863@gmail.com**
 
