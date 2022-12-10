@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amal a.s</h1>
-<h3 align="center">A rookie front-end developer from India trying to learn new things</h3>
+<h3 align="center">A rookie front-end developer trying to learn new things</h3>
 
 
 - 🌱 I’m currently learning **Backend technologies**
